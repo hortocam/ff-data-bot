@@ -1,0 +1,17 @@
+{
+  "name": "ff-data-bot",
+  "version": "1.0.0",
+  "description": "Helps organize and manage FrozenFreebies data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Horton",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
